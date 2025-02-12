@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "153659216088",
+    "firebase_url": "https://just-eat-b6eef-default-rtdb.firebaseio.com",
+    "project_id": "just-eat-b6eef",
+    "storage_bucket": "just-eat-b6eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153659216088:android:50f68fefdd0961d3ee87ad",
+        "android_client_info": {
+          "package_name": "com.edugaon.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GUBanK7OGdop4kXDJugDFQ48S3hm64A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153659216088-cspi178moajb5djnj9r7bpil6hnmqkii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.grocery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153659216088:android:7a913b5ded6f0d6eee87ad",
+        "android_client_info": {
+          "package_name": "com.example.justeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153659216088-i5itjvblim3ngk5v3u26tapc008ghiu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justeat",
+            "certificate_hash": "629e351074d3d4c51ad9fddb0fa26a299add97fc"
+          }
+        },
+        {
+          "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GUBanK7OGdop4kXDJugDFQ48S3hm64A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153659216088-cspi178moajb5djnj9r7bpil6hnmqkii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.grocery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153659216088:android:0cfdb57dbfe3aeedee87ad",
+        "android_client_info": {
+          "package_name": "com.example.justeatadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GUBanK7OGdop4kXDJugDFQ48S3hm64A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153659216088-cspi178moajb5djnj9r7bpil6hnmqkii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.grocery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153659216088:android:514f231f9dad6164ee87ad",
+        "android_client_info": {
+          "package_name": "com.groceryseller.grocery_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GUBanK7OGdop4kXDJugDFQ48S3hm64A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153659216088-5oit4nqm8uim3tclvashlc402so3ljnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153659216088-cspi178moajb5djnj9r7bpil6hnmqkii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.grocery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
